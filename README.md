@@ -1,4 +1,6 @@
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
+## NAME : G P HARIESH 
+## REG.NO : 21222404100
 
 # AIM:
 To design and draw UML diagrams for the LIBRARY MANAGEMENT SYSTEM
